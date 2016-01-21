@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-# Gems para a utilizacao do Bootstrap na aplicacao
+# Gems para a utilizacao do Bootstrap "para o front-end" na aplicacao
 gem "therubyracer"
 gem "less-rails" #Sprockets (what Rails 3.1 uses for its asset pipeline) supports LESS
 gem "twitter-bootstrap-rails"
